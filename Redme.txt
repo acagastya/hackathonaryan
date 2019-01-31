@@ -1,0 +1,23 @@
+Here, We have developed a website which can help old and handicapped people.
+Generally in a country like ours ,its difficult to provide adequate medical facilities to everyone. Mostly old and handicapped people suffer the most due to difficulty in travelling. 
+To overcome such challenges and provide an easy facility to people so that they can book an appointment with a doctor by sending them an automatic email or get to know the prescribed medicine using this website.
+We have tried to make our website as user friendly as available.
+
+Future Prospects
+-We are planning to add some additional features such as disease detection (where people can enter the symtoms and the website will tell them the disease they might have and the some preventive measures).
+-A Emergency button which can be used to send emergency call to selected contacts of a user and concerned authorities such as ambulance .
+-Also to make the website more accessible we are planning on building a mobile app on the same concept.
+
+We have provided the screenshots of our website along with the php and sql files.
+
+To login on the website--
+	USERNAME - user123
+	PASSWORD - user123
+Or you can register yourself as a new user and view the website.
+
+We have used HTML,PHP,CSS and MySQL to develop our website.And we have used wampServer to locally host our website on our machine.
+To use-
+	Database name - "hackathon"
+	Do change username and password in the php files.
+
+
